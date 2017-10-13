@@ -1,4 +1,4 @@
-FROM stronglytyped/arm-none-eabi-gcc
+FROM roboterclubaachen/arm-none-eabi-gcc
 MAINTAINER Sascha Schade (strongly-typed) <stronglytyp3d@gmail.com>
 LABEL Description="Image for building and debugging xpcc for ARM and AVR from git"
 WORKDIR /work
